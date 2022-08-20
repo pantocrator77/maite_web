@@ -105,6 +105,7 @@ dist
 .tern-port
 
 # build directory
+build/
 
 #lockfiles
 yarn.lock
