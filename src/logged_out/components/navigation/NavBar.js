@@ -69,12 +69,12 @@ function NavBar(props) {
 
           </div>
           <Typography
-              variant="h4"
+              variant="h3"
               className={classes.brandText}
               display="inline"
               color="secondary"
             >
-              ASESORIA NAUTICA
+              ASESORÍA NAUTICA EN SITGES Y BARCELONA
             </Typography>
           <div>
             <Hidden mdUp>
