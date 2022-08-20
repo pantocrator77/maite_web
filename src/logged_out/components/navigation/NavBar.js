@@ -74,7 +74,7 @@ function NavBar(props) {
               display="inline"
               color="secondary"
             >
-              ASESORÍA NAUTICA EN SITGES Y BARCELONA
+              ASESORÍA NAUTICA EN SITGES Y BARCELONA 
             </Typography>
           <div>
             <Hidden mdUp>
